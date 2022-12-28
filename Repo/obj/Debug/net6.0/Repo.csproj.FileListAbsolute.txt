@@ -1,0 +1,15 @@
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\bin\Debug\net6.0\Repo.deps.json
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\bin\Debug\net6.0\Repo.dll
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\bin\Debug\net6.0\Repo.pdb
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\bin\Debug\net6.0\DAL.dll
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\bin\Debug\net6.0\DAL.pdb
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\obj\Debug\net6.0\Repo.csproj.AssemblyReference.cache
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\obj\Debug\net6.0\Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\obj\Debug\net6.0\Repo.AssemblyInfoInputs.cache
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\obj\Debug\net6.0\Repo.AssemblyInfo.cs
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\obj\Debug\net6.0\Repo.csproj.CoreCompileInputs.cache
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\obj\Debug\net6.0\Repo.csproj.CopyComplete
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\obj\Debug\net6.0\Repo.dll
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\obj\Debug\net6.0\refint\Repo.dll
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\obj\Debug\net6.0\Repo.pdb
+D:\_Calismalar\.Net\NTierLayer.Solution\Repo\obj\Debug\net6.0\ref\Repo.dll

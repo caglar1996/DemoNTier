@@ -1,0 +1,12 @@
+D:\_Calismalar\.Net\NTierLayer.Solution\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\_Calismalar\.Net\NTierLayer.Solution\DAL\bin\Debug\net6.0\DAL.dll
+D:\_Calismalar\.Net\NTierLayer.Solution\DAL\bin\Debug\net6.0\DAL.pdb
+D:\_Calismalar\.Net\NTierLayer.Solution\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\_Calismalar\.Net\NTierLayer.Solution\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Calismalar\.Net\NTierLayer.Solution\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\_Calismalar\.Net\NTierLayer.Solution\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\_Calismalar\.Net\NTierLayer.Solution\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\_Calismalar\.Net\NTierLayer.Solution\DAL\obj\Debug\net6.0\DAL.dll
+D:\_Calismalar\.Net\NTierLayer.Solution\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\_Calismalar\.Net\NTierLayer.Solution\DAL\obj\Debug\net6.0\DAL.pdb
+D:\_Calismalar\.Net\NTierLayer.Solution\DAL\obj\Debug\net6.0\ref\DAL.dll
