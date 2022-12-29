@@ -4,7 +4,7 @@ using Repo.Interfaces;
 
 namespace Repo.Repositories
 {
-    public class UserRepository : IUserRepository
+    public class UserRepository :  IUserRepository
     {
         private readonly DemoContext context;
         public UserRepository(DemoContext context)
@@ -31,6 +31,12 @@ namespace Repo.Repositories
             context.Update(entity);
 
             return context.SaveChanges() > 0 ? true : false;
+        }
+
+        public void Dispose()
+        {
+            if (context != null)            
+                context.Dispose();                           
         }
     }
 }
